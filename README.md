@@ -5,5 +5,5 @@ if input is > 1
 return 1
 else :
    return input + sigma(input - 1)
-   
+print(sigma)   
    
